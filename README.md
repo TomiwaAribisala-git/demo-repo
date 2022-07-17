@@ -1,8 +1,12 @@
-# Demo 
+# This is demo a test file
 
-Some description!
+Github Testing 
 
-# Header 
+# Subheader 
 
-Watch tutorial on Youtube.
+Watch tutorial on Youtube
+
+# Local Development 
+
+1. Open index.html in your browser 
 
